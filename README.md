@@ -510,7 +510,8 @@ body {
 
 ```
 ## OUTPUT
-<img width="1919" height="1079" alt="Screenshot 2025-08-17 210412" src="https://github.com/user-attachments/assets/b7ed91ec-fdc6-4d1b-b504-3656835f986d" />
+<img width="1914" height="1015" alt="Screenshot 2025-08-17 210344" src="https://github.com/user-attachments/assets/c364f7ef-052a-4e75-aac8-8659a00372c3" />
+
 <img width="1912" height="1078" alt="Screenshot 2025-08-17 210400" src="https://github.com/user-attachments/assets/caffcca0-337d-402c-8827-c04d26fe4eb4" />
 <img width="1919" height="1079" alt="Screenshot 2025-08-17 210412" src="https://github.com/user-attachments/assets/7b0a9e7c-ffa7-44eb-9568-a78713f3f3e0" />
 
